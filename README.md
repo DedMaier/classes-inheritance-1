@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/md6xgxdhe0d6etkf?svg=true)](https://ci.appveyor.com/project/DedMaier/classes-inheritance-1-jvv8b)
 # Домашнее задание к лекции «Классы, наследование»
 
 ### **Важные моменты** 
